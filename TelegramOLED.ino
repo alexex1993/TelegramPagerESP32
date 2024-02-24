@@ -2,9 +2,9 @@
 #include "src\utils.h"
 #include "src\buzzer.h"
 
-#define WIFI_SSID "Kitel_24"
-#define WIFI_PASS "1234567888"
-#define BOT_TOKEN "6900137681:AAGc0fg_4Xni4JSFOY-qo-PChlTN04IcBic"
+#define WIFI_SSID "<Wifi_name>"
+#define WIFI_PASS "<Wifi_password>"
+#define BOT_TOKEN "<Bot_token>"
 
 FastBot bot(BOT_TOKEN);
 
