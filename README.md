@@ -9,10 +9,11 @@ Optional: Buzzer 5V
 ![image](https://github.com/alexex1993/TelegramPagerESP32/assets/6523682/71e377eb-660a-4db4-9bf9-838b6ad7e032)
 
 Getting started
+
 0) Create telegram bot and get token
-1) Setting Arduino IDE for ESP32 board
+1) Setting Arduino IDE for using ESP32 boards
 2) Install libraries in Arduino IDE (Adafruit_SSD1306, FastBot, TimeLib)
-3) Connect display to ESP32 (alse optional connect Buzzer 5V)
+3) Connect display to ESP32 (also optional connect Buzzer 5V)
 4) Edit first rows in project for wifi credentials and token
 5) Upload code in this repository to ESP32
 6) Use the paiger 
