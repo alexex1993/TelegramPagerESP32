@@ -20,9 +20,10 @@ Optional: Buzzer 5V
 1) Setting Arduino IDE for using ESP32 boards
 2) Install libraries in Arduino IDE (Adafruit_SSD1306, FastBot, TimeLib)
 3) Connect display to ESP32 (also optional connect Buzzer 5V)
-4) Edit first rows in project for wifi credentials and token
-5) Download code from this repository to ESP32
-6) Use the paiger 
+4) Download code from this repository
+5) Edit first rows in project for wifi credentials and token
+6) Upload sketch to ESP32
+7) Use the paiger 
 
 ## How to connect components
 
