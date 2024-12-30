@@ -13,6 +13,7 @@ Optional: Buzzer 5V
 - Send message back about successful delivery
 - Show message time in format [HH:MM]
 - Play a programmed melody when a message is sent
+- Support Cyrillic symbols 
 
 ## Getting started
 
