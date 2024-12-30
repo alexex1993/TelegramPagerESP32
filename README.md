@@ -39,6 +39,6 @@ Optional: Buzzer 5V
 | GND   | GND   |
 | D18 | Plus contact   |
 
-Also, you can also use modification ESP8266 with internal display
+Also, you can use modification ESP8266 with internal oled display
 
 [Demonstration on YouTube](https://youtu.be/ok_MZ0AdNfg?si=WcUMEWS6AgMilHYF)
