@@ -4,7 +4,7 @@
 
 #define WIFI_SSID "Kitel_24"
 #define WIFI_PASS "1234567888"
-#define BOT_TOKEN "6900137681:AAGc0fg_4Xni4JSFOY-qo-PChlTN04IcBic"
+#define BOT_TOKEN "<telegram_token>"
 
 FastBot bot(BOT_TOKEN);
 
