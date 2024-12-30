@@ -1,7 +1,7 @@
-# Telegram pager for microcontroller ESP32 and OLED display SSD1306.
+# Telegram pager for microcontroller ESP32 (ESP8266) and OLED display SSD1306.
 
 Need components:
-1) ESP32 board
+1) ESP32 (ESP8266) board
 2) SSD1306 OLED Display
 
 Optional: Buzzer 5V
@@ -22,12 +22,12 @@ Optional: Buzzer 5V
 3) Connect display to ESP32 (also optional connect Buzzer 5V)
 4) Download code from this repository
 5) Edit first rows in project for wifi credentials and token
-6) Upload sketch to ESP32
+6) Upload sketch to ESP32 (ESP8266)
 7) Use the paiger 
 
 ## How to connect components
 
-| ESP32 Board | SSD1306 OLED Display |
+| ESP32 (ESP8266) Board | SSD1306 OLED Display |
 | ----------- | ----------- |
 | GND   | GND   |
 | 3V3 | VCC   |
@@ -38,3 +38,7 @@ Optional: Buzzer 5V
 | ----------- | ----------- |
 | GND   | GND   |
 | D18 | Plus contact   |
+
+Also, you can also use modification ESP8266 with internal display
+
+[Demonstration on YouTube](https://youtu.be/ok_MZ0AdNfg?si=WcUMEWS6AgMilHYF)
